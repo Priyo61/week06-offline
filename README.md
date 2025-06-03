@@ -1,2 +1,5 @@
 # week06-offline
-JWT and Auth 
+
+JWT and Auth
+
+- recap jwt and auth
